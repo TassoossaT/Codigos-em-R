@@ -12,7 +12,7 @@ library(openxlsx)
 
 
 #dados <- rnorm(100)
-dados <- read.xlsx("ANEEL_CP62_2020.xlsx") 
+dados <- read.xlsx("") #eu tirei o arquivo porque não sei se posso mostrar
 options(scipen = 999)
 
 # Define UI for application that draws a histogram
